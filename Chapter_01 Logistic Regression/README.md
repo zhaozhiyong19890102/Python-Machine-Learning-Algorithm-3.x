@@ -2,11 +2,11 @@
 
 ## 图1.1 线性可分
 
-![](https://github.com/zhaozhiyong19890102/Python-Machine-Learning-Algorithm-3.x/tree/master/Chapter_01%20Logistic%20Regression/pic/1_1.png)
+![](https://github.com/zhaozhiyong19890102/Python-Machine-Learning-Algorithm-3.x/blob/master/Chapter_01%20Logistic%20Regression/pic/1_1.jpg)
 
 ## 图1.2 线性不可分
 
-![](https://github.com/zhaozhiyong19890102/Python-Machine-Learning-Algorithm-3.x/tree/master/Chapter_01%20Logistic%20Regression/pic/1_1.png)
+![](https://github.com/zhaozhiyong19890102/Python-Machine-Learning-Algorithm-3.x/blob/master/Chapter_01%20Logistic%20Regression/pic/1_1.png)
 
 
 
