@@ -1,4 +1,3 @@
-# coding:UTF-8
 '''
 Date:20160805
 @author: zhaozhiyong

@@ -1,5 +1,7 @@
-# coding:UTF-8
-
+'''
+Date:20180419
+@author: zhaozhiyong
+'''
 import numpy as np
 import random as rd
 
