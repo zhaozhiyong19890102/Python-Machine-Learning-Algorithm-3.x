@@ -2,13 +2,9 @@
 
 ## 1、书中的代码
 
-- train
+- [train](https://github.com/zhaozhiyong19890102/Python-Machine-Learning-Algorithm-3.x/blob/master/Chapter_01%20Logistic%20Regression/code/lr_train.py "train")
 
-![](https://github.com/zhaozhiyong19890102/Python-Machine-Learning-Algorithm-3.x/blob/master/Chapter_01%20Logistic%20Regression/code/lr_train.py)
-
-- test
-
-![](https://github.com/zhaozhiyong19890102/Python-Machine-Learning-Algorithm-3.x/blob/master/Chapter_01%20Logistic%20Regression/code/lr_test.py)
+- [test](https://github.com/zhaozhiyong19890102/Python-Machine-Learning-Algorithm-3.x/blob/master/Chapter_01%20Logistic%20Regression/code/lr_test.py "test")
 
 - 运行步骤：
 	- 执行`lr_train.py`，得到最终的lr模型
